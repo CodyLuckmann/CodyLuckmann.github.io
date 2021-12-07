@@ -1,0 +1,36 @@
+
+
+#home {
+    background-color: cyan;
+}
+
+#projects {
+    background-color: deepskyblue;
+}
+
+#about {
+    background-color: aqua;
+    
+
+}
+
+#contact { 
+    background-color: darkturquoise
+}
+.topnav {
+    background-color: darkblue;
+
+}
+
+.bigText {
+    color: black;
+     
+}
+.littleText{
+    color: black;
+
+}
+
+.text {
+    color: white;
+}
