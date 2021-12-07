@@ -34,3 +34,11 @@
 .text {
     color: white;
 }
+
+img {
+    align-items: right;
+    width: 500px;
+    height: 800px;
+    object-fit: cover;
+    
+}
