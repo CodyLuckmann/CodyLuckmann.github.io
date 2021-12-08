@@ -37,6 +37,14 @@ body {
     font-family: 'Times New Roman', Times, serif;
     background-color: darkturquoise
 }
+
+.contact-h1{
+    font-size: 20px;
+}
+
+.contact-p{
+    font-size: 18px;
+}
 .topnav {
     height: 40px;
     background-color: darkblue;
