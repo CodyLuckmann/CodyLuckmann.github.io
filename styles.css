@@ -3,21 +3,23 @@ body {
 }
 
 #home {
+    height: 675px;
     background-color: cyan;
 }
 
 #projects {
+    
     background-color: deepskyblue;
 }
 
 #about {
-    height: 800px;
+    height: 675px;
     background-color: aqua;
-    
 
 }
 
 #contact { 
+    height: 675px;
     font-family: 'Times New Roman', Times, serif;
     background-color: darkturquoise
 }
