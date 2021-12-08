@@ -7,6 +7,11 @@ body {
     background-color: cyan;
 }
 
+.home-p{
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif ;
+    color: black;
+}
+
 #projects {
     
     background-color: deepskyblue;
@@ -18,12 +23,18 @@ body {
 
 }
 
+.about-p{
+    
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
 #contact { 
     height: 675px;
     font-family: 'Times New Roman', Times, serif;
     background-color: darkturquoise
 }
 .topnav {
+    height: 40px;
     background-color: darkblue;
 
 }
@@ -31,10 +42,6 @@ body {
 .bigText {
     color: black;
      
-}
-.littleText{
-    color: black;
-
 }
 
 .text {
@@ -53,3 +60,4 @@ table, th, td {
     border: 1px solid black;
     font-family: Arial, Helvetica, sans-serif;
 }
+
