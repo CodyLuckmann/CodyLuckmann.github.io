@@ -17,6 +17,10 @@ body {
     background-color: deepskyblue;
 }
 
+.projects-p{
+    font-size: 30px;
+}
+
 #about {
     height: 675px;
     background-color: aqua;
