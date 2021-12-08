@@ -1,4 +1,6 @@
-
+body {
+    background-color: black ;
+}
 
 #home {
     background-color: cyan;
@@ -9,12 +11,14 @@
 }
 
 #about {
+    height: 800px;
     background-color: aqua;
     
 
 }
 
 #contact { 
+    font-family: 'Times New Roman', Times, serif;
     background-color: darkturquoise
 }
 .topnav {
@@ -36,9 +40,14 @@
 }
 
 img {
-    align-items: right;
+    float: right;
     width: 500px;
-    height: 800px;
+    height: 600px;
     object-fit: cover;
     
+}
+
+table, th, td {
+    border: 1px solid black;
+    font-family: Arial, Helvetica, sans-serif;
 }
