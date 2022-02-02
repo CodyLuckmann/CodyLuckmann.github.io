@@ -1,6 +1,8 @@
-FROM nginx:alpine
+FROM nginx:stable-alpine
 
 WORKDIR /index.html
+
+
 
 COPY --from=build /index.html/build /usr/share/nginx/html
 
